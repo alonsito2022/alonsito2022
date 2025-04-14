@@ -1,4 +1,8 @@
-# 👋 Hola, soy Alonso 👨‍💻
+<p align="center">
+  <img src="banner.png" alt="Banner de alonsito2022" />
+</p>
+
+# 👋 Hola, soy Miguel Suárez 👨‍💻
 
 Soy Ingeniero de Sistemas y desarrollador **Full-Stack** con más de 5 años de experiencia en tecnologías como **Python (Django)**, **Next.js/React** y **Android (Jetpack Compose)**.
 
@@ -24,11 +28,11 @@ Soy Ingeniero de Sistemas y desarrollador **Full-Stack** con más de 5 años de 
 
 ## 📂 Proyectos Destacados
 
-| Proyecto                                                               | Descripción                                           | Tecnologías               |
-| ---------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------- |
-| [App de Delivery](https://github.com/alonsito2022/delivery-app)        | Aplicación móvil Android nativa para repartos.        | Jetpack Compose, Firebase |
-| [Facturación Electrónica](https://github.com/alonsito2022/facturacion) | Sistema completo con backend Django y frontend React. | Django, PostgreSQL, React |
-| [Portafolio Web](https://github.com/alonsito2022/portafolio-next)      | Portafolio personal con Next.js.                      | Next.js, TailwindCSS      |
+| Proyecto                                                                 | Descripción                                                                                                  | Tecnologías                        |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ---------------------------------- |
+| 🚴‍♂️ [**App de Delivery**](https://github.com/alonsito2022/d5mapp)         | App Android nativa para gestionar pedidos y entregas a domicilio con mapas y notificaciones.                 | Kotlin · Jetpack Compose · GraphQL |
+| 🧾 [**Facturación Electrónica**](https://github.com/alonsito2022/f4fact) | Plataforma web para emitir comprobantes electrónicos (boletas, facturas, guías), cumpliendo normativa SUNAT. | Django · PostgreSQL · HTML/CSS     |
+| 🛢️ [**App Repartidores de Gas**](https://github.com/alonsito2022/lpg)    | Aplicación móvil para gestión de ventas y entregas de balones de gas, con localización y autenticación.      | Kotlin · XML · Retrofit · Firebase |
 
 > 👉 Ver todos los proyectos en [mi perfil](https://github.com/alonsito2022?tab=repositories)
 
@@ -36,8 +40,8 @@ Soy Ingeniero de Sistemas y desarrollador **Full-Stack** con más de 5 años de 
 
 ## 📫 Contacto
 
--   ✉️ alonsito2022@gmail.com
--   💼 [LinkedIn](https://www.linkedin.com/in/tu-nombre-si-tienes)
+-   ✉️ mgl.suarez1@gmail.com
+-   💼 [LinkedIn](https://www.linkedin.com/in/miguel-su%C3%A1rez-1b538429b/)
 -   🌍 Arequipa, Perú
 
 ---
