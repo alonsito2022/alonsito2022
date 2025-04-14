@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner de alonsito2022" />
+  <img src="banner_alonsito.png" alt="Banner de alonsito2022" />
 </p>
 
 # 👋 Hola, soy Miguel Suárez 👨‍💻
